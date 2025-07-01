@@ -1,5 +1,71 @@
-# 💫 About Me:
-Here’s an **extremely detailed, polished, and professional "About Me"** section you can put on your GitHub profile. I’ll make it comprehensive, structured, and engaging — highlighting your technical skills, personal story, and what you’re passionate about. You can of course modify it to match your tone (formal, friendly, or playful).<br><br>---<br><br>## ✨ About Me<br><br>Hi there! 👋<br><br>I’m **Udaya Vijay Anand**, a passionate technologist, cybersecurity enthusiast, and lifelong learner dedicated to building secure, reliable, and impactful digital systems. Currently, I’m pursuing a B.Sc. in Cybersecurity with a focus on Computing Infrastructure and Network Engineering at Purdue University, and I plan to graduate in May 2026.<br><br>---<br><br>### 💻 **What I do**<br><br>I love working at the intersection of **security, networks, and AI-driven automation**. Over the years, I’ve built and contributed to projects ranging from AI-powered trading bots to advanced network security labs, integrating theory and real-world deployment.<br><br>I’m particularly interested in:<br><br>* 🔐 **Cybersecurity & Network Engineering** — designing secure, scalable, and resilient infrastructures, with a strong foundation in VLANs, STP, private 5G, and industrial network design.<br>* 🤖 **AI & Automation** — creating intelligent agents for tasks like automated job applications, portfolio management, and market anomaly detection.<br>* 📈 **Financial Technologies** — combining algorithmic trading, data analytics, and risk management to develop intelligent trading systems, including experience with the Indian Energy Exchange (IEX) and US equity markets.<br>* ☁️ **Cloud & Virtualization** — experimenting with VMs, hybrid cloud environments, personal NAS setups, and home labs.<br><br>---<br><br>### ⚡ **Technical skills**<br><br>* **Programming:** Python (including data science, ML, and web automation), Java, C, TypeScript, JavaScript.<br>* **Networking & Security:** Cisco, Aruba, firewalls, VPNs, Wireshark, penetration testing, cryptographic concepts, wireless security.<br>* **Cloud & DevOps:** Docker, Kubernetes basics, VMware, Synology NAS, GitHub Actions, Azure (fundamentals).<br>* **Web & Frontend:** React (with TypeScript and Tailwind), Vite, Next.js, API integrations, UI/UX design.<br>* **Data & ML:** XGBoost, scikit-learn, Stata, data visualization tools, custom feature engineering pipelines.<br><br>---<br><br>### 🌱 **What I’m currently working on**<br><br>* Building a **local CLI app** to automate themed invoices and contracts for my photography brand (The Sora).<br>* Developing an **AI-integrated crypto intelligence dashboard** that combines whale monitoring, pump detection, and rug pull prevention.<br>* Researching **day-ahead energy price forecasting models** using time-series ML techniques for the Indian power market (IEX).<br><br>---<br><br>### 🎓 **Background & Certifications**<br><br>* Certified in **CompTIA Security+**, **Network+**, and **CEH**.<br>* Completed advanced courses in Technical Analysis and Finance from Wharton.<br>* Cybersecurity Intern at DBS Bank, developing a custom bot for financial anomaly detection and security posture assessment.<br>* Actively involved in student communities, including as marketing lead for WiCyS at Purdue.<br><br>---<br><br>### 📸 **Outside tech**<br><br>Outside of cybersecurity and engineering, I run a photography brand called **The Sora**, inspired by the endless possibilities of the sky and pink sunsets (a nod to Jaden Smith’s SYRE aesthetic). I love capturing authentic stories at events and helping people celebrate life's big moments.<br><br>I’m also passionate about mentoring, traveling, and experimenting with futuristic event design (recently designed a cosmic-themed 25th anniversary event 🎉).<br><br>---<br><br>### 🤝 **Let’s connect!**<br><br>I love collaborating on innovative, high-impact projects. If you’re interested in working together, discussing AI security, or even chatting about design, reach out anytime!<br><br>---<br><br>***“When technology meets curiosity, magic happens.”*** 💫<br><br>---<br><br>### 💬 *Feel free to fork, star, or open a discussion on any of my repositories — I’m always excited to learn and grow together!*<br><br><br>
+# 💫 About Me
+
+Hi there! 👋
+
+I’m **Udaya Vijay Anand**, a passionate technologist, cybersecurity enthusiast, and lifelong learner dedicated to building secure, reliable, and impactful digital systems. Currently, I’m pursuing a B.Sc. in Cybersecurity with a focus on Computing Infrastructure and Network Engineering at Purdue University, and I plan to graduate in May 2026.
+
+---
+
+## 💻 What I do
+
+I love working at the intersection of **security, networks, and AI-driven automation**. Over the years, I’ve built and contributed to projects ranging from AI-powered trading bots to advanced network security labs, integrating theory and real-world deployment.
+
+I’m particularly interested in:
+
+- 🔐 **Cybersecurity & Network Engineering** — designing secure, scalable, and resilient infrastructures, with a strong foundation in VLANs, STP, private 5G, and industrial network design.
+- 🤖 **AI & Automation** — creating intelligent agents for tasks like automated job applications, portfolio management, and market anomaly detection.
+- 📈 **Financial Technologies** — combining algorithmic trading, data analytics, and risk management to develop intelligent trading systems, including experience with the Indian Energy Exchange (IEX) and US equity markets.
+- ☁️ **Cloud & Virtualization** — experimenting with VMs, hybrid cloud environments, personal NAS setups, and home labs.
+
+---
+
+## ⚡ Technical skills
+
+- **Programming:** Python (data science, ML, web automation), Java, C, TypeScript, JavaScript
+- **Networking & Security:** Cisco, Aruba, firewalls, VPNs, Wireshark, penetration testing, cryptographic concepts, wireless security
+- **Cloud & DevOps:** Docker, Kubernetes basics, VMware, Synology NAS, GitHub Actions, Azure (fundamentals)
+- **Web & Frontend:** React (TypeScript & Tailwind), Vite, Next.js, API integrations, UI/UX design
+- **Data & ML:** XGBoost, scikit-learn, Stata, data visualization tools, custom feature engineering pipelines
+
+---
+
+## 🌱 What I’m currently working on
+
+- Building a **local CLI app** to automate themed invoices and contracts for my photography brand (The Sora).
+- Developing an **AI-integrated crypto intelligence dashboard** that combines whale monitoring, pump detection, and rug pull prevention.
+- Researching **day-ahead energy price forecasting models** using time-series ML techniques for the Indian power market (IEX).
+
+---
+
+## 🎓 Background & Certifications
+
+- Certified in **CompTIA Security+**, **Network+**, and **CEH**
+- Completed advanced courses in Technical Analysis and Finance from Wharton
+- Cybersecurity Intern at DBS Bank, developing a custom bot for financial anomaly detection and security posture assessment
+- Actively involved in student communities, including as marketing lead for WiCyS at Purdue
+
+---
+
+## 📸 Outside tech
+
+Outside of cybersecurity and engineering, I run a photography brand called **The Sora**, inspired by the endless possibilities of the sky and pink sunsets (a nod to Jaden Smith’s SYRE aesthetic). I love capturing authentic stories at events and helping people celebrate life's big moments.
+
+I’m also passionate about mentoring, traveling, and experimenting with futuristic event design (recently designed a cosmic-themed 25th anniversary event 🎉).
+
+---
+
+## 🤝 Let’s connect!
+
+I love collaborating on innovative, high-impact projects. If you’re interested in working together, discussing AI security, or even chatting about design, reach out anytime!
+
+---
+
+**_"When technology meets curiosity, magic happens."_** 💫
+
+---
+
+💬 *Feel free to fork, star, or open a discussion on any of my repositories — I’m always excited to learn and grow together!*
+
 
 
 ## 🌐 Socials:
